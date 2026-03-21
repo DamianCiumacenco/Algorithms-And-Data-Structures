@@ -75,4 +75,4 @@ Labs in this repo may include but are not limited to:
 ---
 
 ## 👨‍💻 Author
-**Damian Ciumacenco** — [GitHub](https://github.com/DamianCiumacenco) · [LinkedIn](https://linkedin.com/in/damianciumacenco)
+**Damian Ciumacenco** — [GitHub](https://github.com/DamianCiumacenco) · [LinkedIn]([https://linkedin.com/in/damianciumacenco](https://www.linkedin.com/in/damian-ciumacenco-71b15a283/?skipRedirect=true))
