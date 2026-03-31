@@ -1,5 +1,4 @@
-#  CS211 — Algorithms & Data Structures
-**Weekly lab implementations from CS211 at Maynooth University.**
+#   Algorithms & Data Structures
 
 Each folder contains a self-contained lab exercise covering a core computer science concept in Java.
 
@@ -14,7 +13,6 @@ This repository contains my lab work for the CS211 Algorithms & Data Structures 
 Each lab lives in its own folder:
 
 ```
-CS211-Algorithms/
 ├── Lab01/          # Lab topic
 ├── Lab02/          # Lab topic
 ├── Lab03/          # Lab topic
